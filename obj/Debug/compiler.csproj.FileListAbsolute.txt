@@ -1,0 +1,7 @@
+E:\DISERTASI 2018\compiler\compiler\compiler\bin\Debug\compiler.exe.config
+E:\DISERTASI 2018\compiler\compiler\compiler\bin\Debug\compiler.exe
+E:\DISERTASI 2018\compiler\compiler\compiler\bin\Debug\compiler.pdb
+E:\DISERTASI 2018\compiler\compiler\compiler\obj\Debug\compiler.csprojResolveAssemblyReference.cache
+E:\DISERTASI 2018\compiler\compiler\compiler\obj\Debug\compiler.csproj.CoreCompileInputs.cache
+E:\DISERTASI 2018\compiler\compiler\compiler\obj\Debug\compiler.exe
+E:\DISERTASI 2018\compiler\compiler\compiler\obj\Debug\compiler.pdb
